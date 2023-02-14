@@ -5,4 +5,4 @@ evren branch
 fghjkl;544444444444444444444444
 []4542
 
-master 
+master  // onemli kod 
