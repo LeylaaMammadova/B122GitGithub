@@ -1,3 +1,3 @@
 2 gun 1 deneme 
 2 gun 2 deneme
-2 gun Evren Branch yeni ekleme
+2 gun Evren Branch yeni ekleme...
